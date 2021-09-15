@@ -1,6 +1,6 @@
 ## About
 
-I am a **_INSERT ROLE HERE_** at Hack4Impact!
+I am a **Tech Director** at Hack4Impact!
 
 ## My Profile
 
